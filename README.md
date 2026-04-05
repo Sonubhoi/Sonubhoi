@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sonubhoi
-- 👀 I’m interested in geoo-politics
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in geo-politics
+- 🌱 I’m currently learning Data Engineering and Machine Learning
 - 💞️ I’m looking to collaborate on Cloud Computing projects
 - 📫 How to reach me ...  www.linkedin.com/in/sonu-bhoi/
 
